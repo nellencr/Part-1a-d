@@ -1,5 +1,6 @@
-**This project was bootstrapped with [Create React App]
-#PART ONE OF FULLSTACK OPEN 2020
+**This project was bootstrapped with [Create React App].
+
+### `PART ONE OF FULLSTACK OPEN 2020`
 
 
 ### `Built With`
